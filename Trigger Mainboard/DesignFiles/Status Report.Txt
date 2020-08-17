@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Trigger Mainboard.PrjPcb]
+   Generated File[Bill of Materials-Trigger Mainboard.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:11:16 On 11.08.2020
